@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Smash Booking App</string>
+
+    <string-array name="badminton_courts">
+        <item>Penang Badminton Association</item>
+        <item>Pesta Badminton Hall</item>
+        <item>USM Badminton Hall</item>
+        <item>Youth and Sports Complex</item>
+    </string-array>
+
+    <string-array name="location">
+        <item> Lengkok Dumbar, Bukit Dumbar, 11600 Jelutong, Penang.</item>
+        <item>Jalan Sultan Azlan Shah, Tapak Pesta Sungai Nibong, 11900, Penang.</item>
+        <item>Universiti Sains Malaysia, Penang.</item>
+        <item>Jalan Sultan Azlan Shah, Kampung Gelugor, 11700 Gelugor, Penang.</item>
+    </string-array>
+
+    <string-array name="contact">
+        <item>04-659 2878</item>
+        <item>012-400 5328</item>
+        <item> - </item>
+        <item>04-655 4444</item>
+    </string-array>
+
+    <string-array name="operating_hour">
+        <item>Monday - Sunday / 9am - 10pm</item>
+        <item>Monday - Sunday / 9am - 7pm</item>
+        <item>Monday - Sunday / 8am - 10pm</item>
+        <item>Monday - Sunday / 8am - 10pm</item>
+    </string-array>
+
+    <string-array name="price_perHour">
+        <item>RM 20.00</item>
+        <item>RM 13.00</item>
+        <item>RM 2.00 - RM 5.00 </item>
+        <item>RM 15.00</item>
+    </string-array>
+
+    <array name="courts_name">
+        <item>Penang Badminton Association</item>
+        <item>Pesta Badminton Hall</item>
+        <item>USM Badminton Hall</item>
+        <item>Youth and Sports Complex</item>
+    </array>
+
+</resources>
